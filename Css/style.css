@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-size: 1.5 rem;
+    background-color: black;
+    color: white;
+    font-family: "Trebuchet MS", sans-serif;
+}
+    
+h1 {
+    font-size: 3 rem;
+    color: #77AC7E;
+}
+    
+h2 {
+    font-size: 1.5 rem;
+    color: #77AC7E;
+}
+
+.text {
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+
+.list {
+    list-style: none;
+    margin-left: -2.5rem;
+}
+
+.title {
+    color: #77AC7E;
+    text-decoration-line: underline;
+    font-size: 1.25rem;
+}
+
+button {
+    border-radius: 4px;
+    font-size: 1.25rem;
+    width: 15rem;
+    color: white;
+    background-color: #E04626;
+    border: 1px solid #E04626;
+}
